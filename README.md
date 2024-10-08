@@ -85,9 +85,11 @@ int main() {
 
 ## Outputs :
 ### 1.
-
+![Screenshot 2024-10-08 221414](https://github.com/user-attachments/assets/e6e64fbb-9806-406a-85f0-579a4306235b)
 
 ### 2.
+
+![Screenshot 2024-10-08 221735](https://github.com/user-attachments/assets/e28e9d75-1055-46bd-976b-4c93d3b19290)
 
 
 ## Conclusion
